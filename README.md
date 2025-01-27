@@ -1,6 +1,6 @@
 ### Print("Hi everyone, I'm Eduardo")👋
 
-I'm currently working as an iOS developer on the Wipay app.
+I'm currently working as an iOS developer on the WipayApp and HelloAutoApp.
 
 You can follow me or contact me on the following sites/platforms that I leave below:
 
